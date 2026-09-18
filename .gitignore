@@ -1,0 +1,6 @@
+*.pcap
+*.log
+__pycache__/
+*.pyc
+*.pdf
+*.tex
